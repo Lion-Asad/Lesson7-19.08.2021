@@ -1,0 +1,48 @@
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.csproj.AssemblyReference.cache
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.AssemblyInfoInputs.cache
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.AssemblyInfo.cs
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\bin\Debug\net5.0\Lesson7.exe
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\bin\Debug\net5.0\Lesson7.deps.json
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\bin\Debug\net5.0\Lesson7.runtimeconfig.json
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\bin\Debug\net5.0\Lesson7.runtimeconfig.dev.json
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\bin\Debug\net5.0\Lesson7.dll
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\bin\Debug\net5.0\ref\Lesson7.dll
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\bin\Debug\net5.0\Lesson7.pdb
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.dll
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\obj\Debug\net5.0\ref\Lesson7.dll
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.pdb
+C:\Users\Workstation\Desktop\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.genruntimeconfig.cache
+G:\Job\GitHub\Lesson7\bin\Debug\net5.0\Lesson7.exe
+G:\Job\GitHub\Lesson7\bin\Debug\net5.0\Lesson7.deps.json
+G:\Job\GitHub\Lesson7\bin\Debug\net5.0\Lesson7.runtimeconfig.json
+G:\Job\GitHub\Lesson7\bin\Debug\net5.0\Lesson7.runtimeconfig.dev.json
+G:\Job\GitHub\Lesson7\bin\Debug\net5.0\Lesson7.dll
+G:\Job\GitHub\Lesson7\bin\Debug\net5.0\ref\Lesson7.dll
+G:\Job\GitHub\Lesson7\bin\Debug\net5.0\Lesson7.pdb
+G:\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.csproj.AssemblyReference.cache
+G:\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+G:\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.AssemblyInfoInputs.cache
+G:\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.AssemblyInfo.cs
+G:\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.csproj.CoreCompileInputs.cache
+G:\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.dll
+G:\Job\GitHub\Lesson7\obj\Debug\net5.0\ref\Lesson7.dll
+G:\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.pdb
+G:\Job\GitHub\Lesson7\obj\Debug\net5.0\Lesson7.genruntimeconfig.cache
+D:\Job\GitHub\Lesson7 19 08\bin\Debug\net5.0\Lesson7.exe
+D:\Job\GitHub\Lesson7 19 08\bin\Debug\net5.0\Lesson7.deps.json
+D:\Job\GitHub\Lesson7 19 08\bin\Debug\net5.0\Lesson7.runtimeconfig.json
+D:\Job\GitHub\Lesson7 19 08\bin\Debug\net5.0\Lesson7.runtimeconfig.dev.json
+D:\Job\GitHub\Lesson7 19 08\bin\Debug\net5.0\Lesson7.dll
+D:\Job\GitHub\Lesson7 19 08\bin\Debug\net5.0\ref\Lesson7.dll
+D:\Job\GitHub\Lesson7 19 08\bin\Debug\net5.0\Lesson7.pdb
+D:\Job\GitHub\Lesson7 19 08\obj\Debug\net5.0\Lesson7.csproj.AssemblyReference.cache
+D:\Job\GitHub\Lesson7 19 08\obj\Debug\net5.0\Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Job\GitHub\Lesson7 19 08\obj\Debug\net5.0\Lesson7.AssemblyInfoInputs.cache
+D:\Job\GitHub\Lesson7 19 08\obj\Debug\net5.0\Lesson7.AssemblyInfo.cs
+D:\Job\GitHub\Lesson7 19 08\obj\Debug\net5.0\Lesson7.csproj.CoreCompileInputs.cache
+D:\Job\GitHub\Lesson7 19 08\obj\Debug\net5.0\Lesson7.dll
+D:\Job\GitHub\Lesson7 19 08\obj\Debug\net5.0\ref\Lesson7.dll
+D:\Job\GitHub\Lesson7 19 08\obj\Debug\net5.0\Lesson7.pdb
+D:\Job\GitHub\Lesson7 19 08\obj\Debug\net5.0\Lesson7.genruntimeconfig.cache
